@@ -1,5 +1,7 @@
-⚡My Portfolio :man_technologist: ⚡
+⚡My Portfolio :man_technologist:
 
+
+if you want to see full portfolio:
 [Click here to view it](https://vivolscute.github.io/)
 
 
