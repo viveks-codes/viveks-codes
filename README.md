@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://dev.to/vivekcodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vivekcodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivek-patel-0553731a5" target="blank"><img align="center" src="/linkedin.svg" alt="vivek-patel-0553731a5" height="30" width="40" /></a>
-<a href="https://instagram.com/vivek_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="vivek_codes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
