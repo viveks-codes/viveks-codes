@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <h3 align="center">⚡My Portfolio :man_technologist: ⚡</h3>
 
-<h3 align="center">Click <a href="https://vivolscute.github.io/">here</a> to view it</h3>
+<h3 align="center">Click <a href="https://viveks.codes/">here</a> to view it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivolscute&label=Profile%20views&color=0e75b6&style=flat" alt="vivolscute" /> </p>
 
