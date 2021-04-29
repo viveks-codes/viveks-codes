@@ -33,9 +33,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### Blogs posts
-<a href="https://dev.to/vivekcodes/python-zero-to-hero-beginners-5flk">Python Zero to Hero #Beginners⚡</a>
-<a href="https://dev.to/vivekcodes/speed-up-your-python-code-as-a-good-programmer-protips-386d">Speed up Your Python Code as a Good Programmer#PROTIPS⚡</a>
-<a href="https://dev.to/vivekcodes/data-science-zero-to-hero-protips-420">Data Science Zero to Hero #PROTIPS⚡</a>
+<a href="https://dev.to/vivekcodes/python-zero-to-hero-beginners-5flk">> Python Zero to Hero #Beginners⚡</a><br>
+<a href="https://dev.to/vivekcodes/speed-up-your-python-code-as-a-good-programmer-protips-386d">> Speed up Your Python Code as a Good Programmer#PROTIPS⚡</a><br>
+<a href="https://dev.to/vivekcodes/data-science-zero-to-hero-protips-420">> Data Science Zero to Hero #PROTIPS⚡</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
