@@ -17,7 +17,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m [Google Crowdsource Influencer](https://crowdsource.google.com/about/community/);
-- 💼 I’m currently pursuing my final year of B.Tech degree in Artificial Intelligence & Data Science at [UTU](utu.ac.in);
+- 💼 I’m currently pursuing my B.Tech degree in Artificial Intelligence & Data Science at [UTU](utu.ac.in);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Watching Anime 🃏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of Jokar 🃏
 - 💬 Ask me about anything, I am happy to help;
