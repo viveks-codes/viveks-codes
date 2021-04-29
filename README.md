@@ -1,9 +1,30 @@
 
-<h1 align="center">Hi 👋, I'm Vivek</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>, I'm <a href="https://viveks.codes/">Vivek!</a></h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<h3 align="center">⚡My Portfolio :man_technologist: ⚡</h3>
 
-<h3 align="center">Click <a href="https://viveks.codes/">here</a> to view it</h3>
+
+<p>
+  <em>
+    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Gujrat, India.
+  </em>
+ </p>
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<em> Want to know more about me? [Click here](https://viveks.codes/) </em>
+<em>
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m [Google Crowdsource Influencer](https://crowdsource.google.com/about/community/);
+- 💼 I’m currently pursuing my final year of B.Tech degree in Artificial Intelligence & Data Science at [UTU](utu.ac.in);
+- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Watching Anime 🃏, Space 🚀, etc..;
+- 🎬 I love watching movies and I'm a big fan of Jokar 🃏
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via <a href="ai20.vivek.patel@gmail.com">ai20.vivek.patel@gmail.com</a> or ping me on [LinkedIn](https://www.linkedin.com/in/vivek-patel-0553731a5/) to reach me;
+<br/> 
+</em>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivolscute&label=Profile%20views&color=0e75b6&style=flat" alt="vivolscute" /> </p>
 
