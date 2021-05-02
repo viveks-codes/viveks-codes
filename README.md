@@ -2,7 +2,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>, I'm <a href="https://viveks.codes/">Vivek!</a></h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-
+[go](http://example.com){:target="_blank"}
 <p>
   <em>
     A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Gujrat, India.
