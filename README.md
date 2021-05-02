@@ -10,7 +10,7 @@
  </p>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<p> Want to know more about me? <a href="https://viveks.codes/">Click here</a></p>
+<p> Want to know more about me? <a href="https://viveks.codes/" target="_blank">Click here</a></p>
 <em>
   
 **Talking about Personal Stuffs:**
@@ -36,7 +36,7 @@
 <a href="https://dev.to/vivekcodes/data-science-zero-to-hero-protips-420" target="blank">> Data Science Zero to Hero #PROTIPS⚡</a>
 <!-- BLOG-POST-LIST:END -->
 {:target="_blank"}
-target="blank"
+target="_blank"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
