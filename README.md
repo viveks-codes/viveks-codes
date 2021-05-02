@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<em> Want to know more about me? [Click here](https://viveks.codes/) </em>
+<em> Want to know more about me? [Click here](https://viveks.codes/){:target="_blank"}</em>
 <em>
   
 **Talking about Personal Stuffs:**
@@ -21,7 +21,7 @@
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Watching Anime 🃏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of Jokar 🃏
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via <a href="ai20.vivek.patel@gmail.com">ai20.vivek.patel@gmail.com</a> or ping me on [LinkedIn](https://www.linkedin.com/in/vivek-patel-0553731a5/) to reach me;
+- 📫 Please email via <a href="ai20.vivek.patel@gmail.com">ai20.vivek.patel@gmail.com</a> or ping me on [LinkedIn](https://www.linkedin.com/in/vivek-patel-0553731a5/){:target="_blank"} to reach me;
 <br/> 
 </em>
 
@@ -30,13 +30,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivolscute" alt="vivolscute" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### Blogs posts
-<a href="https://dev.to/vivekcodes/python-zero-to-hero-beginners-5flk">> Python Zero to Hero #Beginners⚡</a><br>
-<a href="https://dev.to/vivekcodes/speed-up-your-python-code-as-a-good-programmer-protips-386d">> Speed up Your Python Code as a Good Programmer#PROTIPS⚡</a><br>
-<a href="https://dev.to/vivekcodes/data-science-zero-to-hero-protips-420">> Data Science Zero to Hero #PROTIPS⚡</a>
+<a href="https://dev.to/vivekcodes/python-zero-to-hero-beginners-5flk" target="blank">> Python Zero to Hero #Beginners⚡</a><br>
+<a href="https://dev.to/vivekcodes/speed-up-your-python-code-as-a-good-programmer-protips-386d" target="blank">> Speed up Your Python Code as a Good Programmer#PROTIPS⚡</a><br>
+<a href="https://dev.to/vivekcodes/data-science-zero-to-hero-protips-420" target="blank">> Data Science Zero to Hero #PROTIPS⚡</a>
 <!-- BLOG-POST-LIST:END -->
+{:target="_blank"}
+target="blank"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
