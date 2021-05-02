@@ -10,8 +10,7 @@
  </p>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-<em> Want to know more about me? [Click here](https://viveks.codes/){:target="_blank"}</em>
+<p> Want to know more about me? <a href="https://viveks.codes/">Click here</a></p>
 <em>
   
 **Talking about Personal Stuffs:**
