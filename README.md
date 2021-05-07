@@ -18,7 +18,7 @@
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Watching Anime 🃏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of Jokar 🃏
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via <a href="ai20.vivek.patel@gmail.com">ai20.vivek.patel@gmail.com</a> or ping me on [LinkedIn](https://www.linkedin.com/in/vivek-patel-0553731a5/){:target="_blank"} to reach me;
+- 📫 Please email via <a href="ai20.vivek.patel@gmail.com">ai20.vivek.patel@gmail.com</a> or ping me on [LinkedIn](https://www.linkedin.com/in/vivek-patel-0553731a5/)to reach me;
 <br/> 
 </em>
 
