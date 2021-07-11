@@ -11,9 +11,6 @@
 <p> Want to know more about me? <a href="https://viveks.codes/vivek-codes" target="_blank">Click here</a></p>
 <em>
 
-
-
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m [Google Crowdsource Influencer](https://crowdsource.google.com/about/community/);
@@ -24,6 +21,7 @@
 - 📫 Please email via <a href="ai20.vivek.patel@gmail.com">ai20.vivek.patel@gmail.com</a> or ping me on [LinkedIn](https://www.linkedin.com/in/vivek-patel-0553731a5/)to reach me;
 <br/> 
 </em>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivolscute&label=Profile%20views&color=0e75b6&style=flat" alt="vivolscute" /> </p>
