@@ -24,9 +24,13 @@
 
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivolscute&label=Profile%20views&color=0e75b6&style=flat" alt="vivolscute" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivolscute" alt="vivolscute" /></a> </p>
+
+
 
 
 ### Blogs posts
@@ -34,6 +38,9 @@
 <a href="https://dev.to/vivekcodes/speed-up-your-python-code-as-a-good-programmer-protips-386d" target="blank">> Speed up Your Python Code as a Good Programmer#PROTIPS⚡</a><br>
 <a href="https://dev.to/vivekcodes/data-science-zero-to-hero-protips-420" target="blank">> Data Science Zero to Hero #PROTIPS⚡</a>
 <!-- BLOG-POST-LIST:END -->
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
