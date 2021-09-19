@@ -8,7 +8,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-patel-0553731a5)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://viveks.codes/vivek-codes/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://viveks.codes/)
 [![Twitter Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/vivekcodes)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vivek_codes/)
 [![DataCamp Badge](https://img.shields.io/badge/Datacamp-239120?style=flat-square&logo=Datacamp&logoColor=white)](https://datacamp.com/profile/vivekcodes)
