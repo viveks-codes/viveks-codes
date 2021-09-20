@@ -13,7 +13,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vivek_codes/)
 [![DataCamp Badge](https://img.shields.io/badge/Datacamp-239120?style=flat-square&logo=Datacamp&logoColor=white)](https://datacamp.com/profile/vivekcodes)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=vivolscute&label=visitors&color=0e75b6&style=flat)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=viveks-codes&label=visitors&color=0e75b6&style=flat)
 
 **Talking about Personal Stuffs:**
 
@@ -55,15 +55,15 @@ Joined Github **3** years ago.
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=vivolscute&show_icons=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivolscute&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=viveks-codes&show_icons=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveks-codes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vivolscute&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viveks-codes&hide_border=true" />
 </details>
 
 
