@@ -1,11 +1,14 @@
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>, I'm <a href="https://viveks.codes/">Vivek!</a></h1>
+
+![vivek's card](https://cardivo.vercel.app/api?name=Viveks_Codes&description=Data%20Scientist%20(n.):%20Person%20who%20is%20better%20at%20statistics%20than%20any%20software%20engineer%20and%20better%20at%20software%20engineering%20than%20any%20statistician.%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/55041874?s=400&u=50733cf6f8da8c8e5a66bd5b7666074ad239c1b5&v=4&backgroundColor=%23ecf0f1&instagram=viveks_codes&&github=viveks_codes&pattern=plus&colorPattern=%23eaeaea)
+
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p>
   <em>
     A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Gujrat, India.
   </em>
  </p>
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-patel-0553731a5)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://viveks.codes/)
