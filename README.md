@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>, I'm <a href="https://viveks.codes/">Vivek!</a></h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>, I'm <a href="https://viveks.codes/">Viveks codes!</a></h1>
 
 <h3 align="center">A Certified Data Scientist Professional from India</h3>
 <p>
