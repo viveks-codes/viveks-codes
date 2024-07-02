@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p>
   <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Gujrat, India.
+    A <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Surat, Gujrat India.
   </em>
  </p>
 
