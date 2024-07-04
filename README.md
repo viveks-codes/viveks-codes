@@ -16,7 +16,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=viveks-codes&label=visitors&color=0e75b6&style=flat)
 
-**Talking about Personal Stuffs:**
+**Talking about Stuffs:**
 - 💼 I am currently working at Nowfloats by Reliance in Hyderabad. Before that, I worked as a Big Data Analytics intern at GIM GOA, and I also served at Axelor Surat.
 - 💼 I've contributed research algorithms to Facebook Meta AI's project PyTorch, specifically focusing on to replace the forward and backward passes of backpropagation with two forward passes a positive passes.
 - 👨🏽‍💻 My interests include Data Science 📊, Machine Learning, Deep Learning, Artificial Intelligence, Big Data Analytics, Mathematics for Machine Learning and Space Exploration 🚀.
