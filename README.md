@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-I'm a **Generative AI Engineer** with **2.8+ years** building production LLM systems — from continued pre-training on 125 GB corpora to vLLM-based serving and inference benchmarking. Currently a **Senior GenAI & NLP Engineer** at [BharatGen](https://bharatgen.india.gov.in) (IIT Bombay × IIM Indore), India's Sovereign AI Initiative, where I lead the training of **AyurParam 2**, a 17B Mixture-of-Experts model running on a 6-node, 48-GPU NVIDIA A6000 cluster.
+I'm a **Generative AI Engineer** with **2.6+ years** building production LLM systems — from continued pre-training on 125 GB corpora to vLLM-based serving and inference benchmarking. Currently a **Senior GenAI & NLP Engineer** at [BharatGen](https://bharatgen.india.gov.in) (IIT Bombay × IIM Indore), India's Sovereign AI Initiative, where I lead the training of **AyurParam 2**, a 17B Mixture-of-Experts model running on a 6-node, 48-GPU NVIDIA A6000 cluster.
 
 I've contributed code to Meta's **[pytorch/examples](https://github.com/pytorch/examples)** (22k ⭐), co-authored **3 arXiv papers** evaluating 20+ frontier models across Indic languages, and published **[honeypotllm](https://pypi.org/project/honeypotllm/)** — an open-source LLM security SDK — on PyPI.
 
